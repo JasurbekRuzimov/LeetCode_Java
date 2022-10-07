@@ -3,21 +3,13 @@ import java.util.Scanner;
 public class AverageSalaryExcludingtheMinimumandMaximumSalary_1491 {
 
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int n = sc.nextInt();
-        int[] salary = new int[n];
-        System.out.println(average(salary));
+        average(new int[]{4000,3000,1000,2000});
 
     }
-
     public static double average(int[] salary) {
-        Scanner sc = new Scanner(System.in);
         int max = salary[0];
         int min = salary[0];
         int sum = 0;
-        for (int i = 0; i < salary.length; i++) {
-            salary[i] = sc.nextInt();
-        }
         for (int i = 0; i < salary.length; i++) {
             if (salary[i] > max) {
                 max = salary[i];
@@ -25,12 +17,10 @@ public class AverageSalaryExcludingtheMinimumandMaximumSalary_1491 {
             if (salary[i] < min) {
                 min = salary[i];
             }
-
         }
-            sum = (max + min)/2;
-        return sum ;
-
+        for (int i = 0; i < salary.length; i++) {
+            sum += salary[i];
+        }
+        return (sum - max - min) / (salary.length - 2);
     }
-
-
 }

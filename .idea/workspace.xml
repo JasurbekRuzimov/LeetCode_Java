@@ -1,24 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="373e01be-5b4f-42c3-b90e-acf4b4bab832" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCodeJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AverageSalaryExcludingtheMinimumandMaximumSalary_1491.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CountItemsMatchingARule_1773.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CountOldNumbersInAnIntervalRange_1523.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LongestCommonPrefix_14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PalindromeNumber_9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RomanToInteger_13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sum3_15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TwoSum_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ValidParentheses_20.java" afterDir="false" />
+    <list default="true" id="373e01be-5b4f-42c3-b90e-acf4b4bab832" name="Changes" comment="All codes were pushes">
+      <change afterPath="$PROJECT_DIR$/src/AddBinary_67.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PlusOne_66.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AverageSalaryExcludingtheMinimumandMaximumSalary_1491.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AverageSalaryExcludingtheMinimumandMaximumSalary_1491.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +39,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TwoSum_1">
+  <component name="RunManager" selected="Application.PlusOne_66">
     <configuration name="AverageSalaryExcludingtheMinimumandMaximumSalary_1491" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AverageSalaryExcludingtheMinimumandMaximumSalary_1491" />
       <module name="LeetCodeJava" />
@@ -67,8 +54,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sum3_15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sum3_15" />
+    <configuration name="PlusOne_66" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PlusOne_66" />
       <module name="LeetCodeJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PlusOne_66" />
         <item itemvalue="Application.TwoSum_1" />
         <item itemvalue="Application.AverageSalaryExcludingtheMinimumandMaximumSalary_1491" />
         <item itemvalue="Application.CountOldNumbersInAnIntervalRange_1523" />
         <item itemvalue="Application.ValidParentheses_20" />
-        <item itemvalue="Application.Sum3_15" />
       </list>
     </recent_temporary>
   </component>
@@ -108,8 +95,16 @@
       <updated>1665119515235</updated>
       <workItem from="1665119518775" duration="3518000" />
       <workItem from="1665123100782" duration="126000" />
-      <workItem from="1665123293380" duration="6223000" />
+      <workItem from="1665123293380" duration="9570000" />
     </task>
+    <task id="LOCAL-00001" summary="All codes were pushes">
+      <created>1665139668888</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665139668888</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,5 +120,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="All codes were pushes" />
+    <option name="LAST_COMMIT_MESSAGE" value="All codes were pushes" />
   </component>
 </project>
