@@ -2,10 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="373e01be-5b4f-42c3-b90e-acf4b4bab832" name="Changes" comment="All codes were pushes">
-      <change afterPath="$PROJECT_DIR$/src/AddBinary_67.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PlusOne_66.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AddTwoNumbers_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CanMakeArithmeticProgressionFromSequence_1502.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckifOneStringSwapCanMakeStringsEqual_1790.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindNearestPointThatHastheSameXorYCoordinate_1779.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyNumbers_202.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntegerToEnglishWords_273.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LargestPerimeterTriangle_976.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberOf1Bits_191.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SignOfTheProductOfAnArray_1822.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SubstracTheProductAndSumOfDigitsOfAnInteger_1281.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ValidNumbers_65.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/AverageSalaryExcludingtheMinimumandMaximumSalary_1491.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AverageSalaryExcludingtheMinimumandMaximumSalary_1491.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LongestCommonPrefix_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LongestCommonPrefix_14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,10 +47,17 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Acer/IdeaProjects/TatuAmaliyotDarslari&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PlusOne_66">
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.IntegerToEnglishWords_273">
     <configuration name="AverageSalaryExcludingtheMinimumandMaximumSalary_1491" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AverageSalaryExcludingtheMinimumandMaximumSalary_1491" />
       <module name="LeetCodeJava" />
@@ -47,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountOldNumbersInAnIntervalRange_1523" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CountOldNumbersInAnIntervalRange_1523" />
+    <configuration name="IntegerToEnglishWords_273" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IntegerToEnglishWords_273" />
       <module name="LeetCodeJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -61,15 +79,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoSum_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TwoSum_1" />
+    <configuration name="SubstracTheProductAndSumOfDigitsOfAnInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SubstracTheProductAndSumOfDigitsOfAnInteger" />
       <module name="LeetCodeJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidParentheses_20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ValidParentheses_20" />
+    <configuration name="ValidNumbers_65" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ValidNumbers_65" />
       <module name="LeetCodeJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,11 +95,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PlusOne_66" />
-        <item itemvalue="Application.TwoSum_1" />
+        <item itemvalue="Application.IntegerToEnglishWords_273" />
+        <item itemvalue="Application.ValidNumbers_65" />
         <item itemvalue="Application.AverageSalaryExcludingtheMinimumandMaximumSalary_1491" />
-        <item itemvalue="Application.CountOldNumbersInAnIntervalRange_1523" />
-        <item itemvalue="Application.ValidParentheses_20" />
+        <item itemvalue="Application.SubstracTheProductAndSumOfDigitsOfAnInteger" />
+        <item itemvalue="Application.PlusOne_66" />
       </list>
     </recent_temporary>
   </component>
@@ -96,6 +114,13 @@
       <workItem from="1665119518775" duration="3518000" />
       <workItem from="1665123100782" duration="126000" />
       <workItem from="1665123293380" duration="9570000" />
+      <workItem from="1665146511084" duration="294000" />
+      <workItem from="1665218870442" duration="65000" />
+      <workItem from="1665219129727" duration="619000" />
+      <workItem from="1665219778031" duration="321000" />
+      <workItem from="1665307859915" duration="5502000" />
+      <workItem from="1665396518036" duration="1204000" />
+      <workItem from="1665517763105" duration="3306000" />
     </task>
     <task id="LOCAL-00001" summary="All codes were pushes">
       <created>1665139668888</created>
@@ -104,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665139668888</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="All codes were pushes">
+      <created>1665146526139</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665146526139</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -4,7 +4,6 @@ public class LongestCommonPrefix_14 {
         System.out.println(longestCommonPrefix(str));
     }
     public static String longestCommonPrefix(String[] strs) {
-
         if (strs.length == 0) return "";
         String prefix = strs[0];
         for (int i = 1; i < strs.length; i++)
