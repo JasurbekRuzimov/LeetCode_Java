@@ -1,1 +1,1 @@
-https://Leetcode.com saytidaki misollarning Java tilidagi yechimlari !
+https://Leetcode.com saytidaki ba'zi misollarning Java tilidagi yechimlari !
